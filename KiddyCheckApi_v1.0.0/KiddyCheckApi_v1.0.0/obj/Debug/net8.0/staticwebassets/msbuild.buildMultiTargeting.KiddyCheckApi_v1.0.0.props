@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KiddyCheckApi_v1.0.0.props" />
+</Project>

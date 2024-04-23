@@ -1,0 +1,15 @@
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.deps.json
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.dll
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.pdb
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.csproj.AssemblyReference.cache
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.AssemblyInfoInputs.cache
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.AssemblyInfo.cs
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyChe.2EAB33E0.Up2Date
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.dll
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\refint\KiddyCheckApi.Core.dll
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.pdb
+C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\ref\KiddyCheckApi.Core.dll
