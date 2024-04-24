@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KiddyCheckApi.Core
-build_property.ProjectDir = C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\
+build_property.ProjectDir = C:\Users\ENRIQ\source\repos\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

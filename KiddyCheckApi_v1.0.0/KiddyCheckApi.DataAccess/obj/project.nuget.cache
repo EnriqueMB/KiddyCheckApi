@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BW1O1MjMlz+SIeTNvKQ6jS3lKjjjUSDD1EcGWpXTOvN0f3q7bkafyxUVl0gW04EfM7mpSSsENYh5/Fg/p93wMQ==",
+  "dgSpecHash": "RbUh0j8+De0OB4gDSneFAIIl4xcj8FgbInjr2knHC58CrX/B2GIh2Cw4eF4aiYZOirh53zH/6APGq3h8uJIOhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENRIQ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ENRIQ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

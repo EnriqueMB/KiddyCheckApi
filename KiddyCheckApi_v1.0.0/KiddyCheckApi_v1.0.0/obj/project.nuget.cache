@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kI+l67TdP8MDXGFHd/NgL765RDCikpYxVy6HGp/fXxzq5rtYiFhkNLaaGRrLL2VMDNQo3I+H8APnF3cDruPp/g==",
+  "dgSpecHash": "tn9aVxeihdMKwH8lMt+eKiZq8rJgkRAni0Y004vEq3f78FG00BqxNawlH7WIZH79NhO3G9/w/6MIznxPdFCwJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0.csproj",
+  "projectFilePath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENRIQ\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ENRIQ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

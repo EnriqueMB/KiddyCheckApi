@@ -26,7 +26,6 @@ namespace KiddyCheckApi_v1._0._0.Controllers
         }
         #endregion
 
-
         #region <--- Metodos --->
         //Agregar usuario
         [HttpPost("AgregarUsuario")]
