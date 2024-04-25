@@ -19,5 +19,7 @@ namespace KiddyCheckApi.DataAccess
         public DbSet<Roles> Roles { get; set; }
         public DbSet<UsuariosRoles> UsuariosRoles { get; set; }
         public DbSet<RolesPermisos> RolesPermisos { get; set; }
+        public DbSet<TipoPersona> TipoPersona { get; set; }
+        public DbSet<Personas> Personas { get; set; }
     }
 }

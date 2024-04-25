@@ -2748,23 +2748,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ENRIQ\\.nuget\\packages\\": {},
+    "C:\\Users\\froil\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\froil\\Documents\\ProyectosCreaTive\\Proyectos\\Api-kiddyCheck\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
       "projectName": "KiddyCheckApi.DataAccess",
-      "projectPath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\ENRIQ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ENRIQ\\source\\repos\\KiddyCheckApi\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\froil\\Documents\\ProyectosCreaTive\\Proyectos\\Api-kiddyCheck\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\KiddyCheckApi.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\froil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\froil\\Documents\\ProyectosCreaTive\\Proyectos\\Api-kiddyCheck\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ENRIQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\froil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2773,6 +2773,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2820,5 +2821,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\froil\\Documents\\ProyectosCreaTive\\Proyectos\\Api-kiddyCheck\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

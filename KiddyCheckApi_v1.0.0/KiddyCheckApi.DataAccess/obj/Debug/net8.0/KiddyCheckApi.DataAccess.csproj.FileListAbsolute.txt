@@ -10,3 +10,16 @@ C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\De
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\ref\KiddyCheckApi.DataAccess.dll
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.AssemblyReference.cache
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.deps.json
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.AssemblyReference.cache
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.AssemblyInfoInputs.cache
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.AssemblyInfo.cs
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.sourcelink.json
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\refint\KiddyCheckApi.DataAccess.dll
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\xampp\htdocs\KiddyCheckApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\ref\KiddyCheckApi.DataAccess.dll

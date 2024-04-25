@@ -24,6 +24,7 @@ namespace KiddyCheckApi.Core.Mappers
                 cfg.CreateMap<PermisosVM, Permisos>().ReverseMap();
                 cfg.CreateMap<UsuarioPermisosVM, UsuarioPermisos>().ReverseMap();
                 cfg.CreateMap<UsuariosResponse, Usuarios>().ReverseMap();
+                cfg.CreateMap<PersonaRequest, Personas>().ReverseMap();
             });
 
             _mapper = new Mapper(config);
