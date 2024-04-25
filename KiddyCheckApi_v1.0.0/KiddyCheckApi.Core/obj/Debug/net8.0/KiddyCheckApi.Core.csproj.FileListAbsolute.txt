@@ -13,3 +13,19 @@ C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\ne
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\refint\KiddyCheckApi.Core.dll
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.pdb
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\ref\KiddyCheckApi.Core.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.deps.json
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.Core.pdb
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\bin\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.csproj.AssemblyReference.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.AssemblyInfoInputs.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.AssemblyInfo.cs
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.sourcelink.json
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.csproj.CopyComplete
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\refint\KiddyCheckApi.Core.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\KiddyCheckApi.Core.pdb
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.Core\obj\Debug\net8.0\ref\KiddyCheckApi.Core.dll

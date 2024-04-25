@@ -10,3 +10,16 @@ C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\De
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\ref\KiddyCheckApi.DataAccess.dll
 C:\Users\ENRIQ\source\repos\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.deps.json
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\bin\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.AssemblyInfo.cs
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.sourcelink.json
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\refint\KiddyCheckApi.DataAccess.dll
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\KiddyCheckApi.DataAccess.pdb
+C:\Users\Erick David Gomez\Documents\GitHub\KiddyApi\KiddyCheckApi_v1.0.0\KiddyCheckApi.DataAccess\obj\Debug\net8.0\ref\KiddyCheckApi.DataAccess.dll
