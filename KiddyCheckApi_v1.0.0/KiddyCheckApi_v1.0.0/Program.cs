@@ -26,6 +26,7 @@ builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSet
 #region <-- Services -->
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<PermisosService>();
+builder.Services.AddScoped<PersonasService>();
 #endregion
 #region <-- Repositories -->
 builder.Services.AddScoped<IBaseRepository<Permisos>, BaseRepository<Permisos>>();
@@ -33,6 +34,8 @@ builder.Services.AddScoped<IBaseRepository<Usuarios>, BaseRepository<Usuarios>>(
 builder.Services.AddScoped<IBaseRepository<UsuarioPermisos>, BaseRepository<UsuarioPermisos>>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IBaseRepository<Permisos>, BaseRepository<Permisos>>();
+builder.Services.AddScoped<IBaseRepository<Personas>, BaseRepository<Personas>>();
+builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
 #endregion
 #region <-- Context -->
 
